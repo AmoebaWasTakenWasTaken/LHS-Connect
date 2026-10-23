@@ -34,7 +34,7 @@
 		"flowbite-svelte": "^0.47.4",
 		"flowbite-svelte-icons": "^2.2.1",
 		"fuse.js": "^7.1.0",
-		"mongoose": "^8.16.0",
+		"mongoose": "^8.24.1",
 		"nanoid": "^5.1.5",
 		"papaparse": "^5.5.3",
 		"postcss": "^8.5.6",
