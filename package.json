@@ -37,7 +37,7 @@
 		"mongoose": "^8.16.0",
 		"nanoid": "^5.1.5",
 		"papaparse": "^5.5.3",
-		"postcss": "^8.5.6",
+		"postcss": "^8.5.23",
 		"prettier": "^3.6.0",
 		"prettier-plugin-svelte": "^3.4.0",
 		"prettier-plugin-tailwindcss": "^0.6.13",
